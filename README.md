@@ -2,7 +2,7 @@
 
 
 <p align="center">
-  <img src="expomoto.jpg" alt="Preview do Projeto BalleCoffee" width="100%">
+  <img src="Layout_motos.jpg" alt="Preview do Projeto BalleCoffee" width="100%">
 </p>
 
 ## 💻 Sobre o Projeto
